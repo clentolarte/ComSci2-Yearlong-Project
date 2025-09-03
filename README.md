@@ -25,6 +25,6 @@ Enter "EVC_INTERN" to become an intern, "EVC_DORM_MANAGER" to be a dorm manager.
 
 
 ## Contributors
-- Student 1: Clent Noelson S. Olarte(input validation, user interface)
-- Student 2: Mikhail  
+- Student 1: Clent Noelson S. Olarte (user interface)
+- Student 2: Mikhail  D. Kilat (input validation)
 
