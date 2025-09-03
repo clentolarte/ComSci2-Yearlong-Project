@@ -18,23 +18,13 @@ Confirmation Letter Request App
 5. Follow the on-screen instructions to enter student names and grades.
 
 ##Example Output
-Enter student name: Alice
-Enter grade: 89
-
-Final grade for Alice: 89.0 (B)
-
-Do you want to add another student? (yes/no): yes
-
-Enter student name: Ben
-Enter grade: 95
-
-Final grade for Ben: 95.0 (A)
-
-Class average: 92.0
+Enter "EVC_INTERN" to become an intern, "EVC_DORM_MANAGER" to be a dorm manager.
+(if you entered EVC_INTERN) Choose which reason why you are gonna go out (Go home/Competitions/Others)
+(if you entered EVC_DORM_MANAGER) Pending Requests:  1
+                                  Finished Requests:
 
 
 ## Contributors
-- Student 1: Name of member 1 (input validation, user interface)
-- Student 2: Name of member 2 (grade logic and average calculation)
-- Student 3: Name of member 3 (letter grade conversion and testing)
+- Student 1: Clent Noelson S. Olarte(input validation, user interface)
+- Student 2: Mikhail  
 
